@@ -1,1 +1,1 @@
-[consumed_licenses-Tvhome1-1685741520.csv](https://github.com/Homeqtv9/Homeqtv9/files/11925416/consumed_licenses-Tvhome1-1685741520.csv)
+[MIT License _ Software Package Data Exchange (SPDX).txt](https://github.com/https-gitHub-com-Homeqtv/Homeqtv9/files/12023336/MIT.License._.Software.Package.Data.Exchange.SPDX.txt)
